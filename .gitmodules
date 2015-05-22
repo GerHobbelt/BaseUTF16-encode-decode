@@ -1,0 +1,6 @@
+[submodule "libraries-of-interest/MathJax-dev"]
+	path = libraries-of-interest/MathJax-dev
+	url = git@github.com:GerHobbelt/MathJax-dev.git
+[submodule "libraries-of-interest/xregexp"]
+	path = libraries-of-interest/xregexp
+	url = git@github.com:GerHobbelt/xregexp.git
