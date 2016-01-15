@@ -25,7 +25,7 @@ BaseUTF16-encode-decode is the `JSON.stringify` and Base*N* alternative which pr
 
 - Full, optimal use of the available UTF16 code space: packing more oomph in fewer UTF-16 characters!
 
-- You can freely format the BaseUTF16 Unicode string output using speces, tabs and carriage returns / line feed characters as those are skipped by the decoder.
+- You can freely format the BaseUTF16 Unicode string output using spaces, tabs and carriage returns / line feed characters as those are skipped by the decoder.
 
 - Uses a [MessagePack](http://msgpack.org/) derivative to help serialize structured data.
 
